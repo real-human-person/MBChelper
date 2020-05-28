@@ -1,0 +1,15 @@
+MercadoBitcoin Helper (MBC Helper)
+
+TO-DO List
+
+* search by function
+    - search by TxID
+    - search by date
+
+* graph page
+    - orderbook volume
+    - candlestick chart
+        + JS?
+    - TA patterns
+        + Moving average convergence divergence
+        +
